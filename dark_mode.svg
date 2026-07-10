@@ -1,60 +1,82 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,monospace" width="985px" height="540px" font-size="16px">
-<rect width="985px" height="540px" fill="#161b22" rx="15"/>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,monospace" width="1700px" height="980px" font-size="16px">
+<rect width="1700px" height="980px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" xml:space="preserve">
-  <tspan x="15" y="30">                  .                 </tspan>
-  <tspan x="15" y="50">          :=:::-:::::                </tspan>
-  <tspan x="15" y="70">       :-=-=::--::=:-::-:            </tspan>
-  <tspan x="15" y="90">    ---::::.-::.:::::-::-+:          </tspan>
-  <tspan x="15" y="110">   ---..:..::....:::-:::::--.        </tspan>
-  <tspan x="15" y="130">  .:............::::::::::=:+=       </tspan>
-  <tspan x="15" y="150">  :........:::::::::::.:::::=--.     </tspan>
-  <tspan x="15" y="170"> .:.....:-=========+=-::::-:::--     </tspan>
-  <tspan x="15" y="190">  ....:--====++++++++==-.::::::..    </tspan>
-  <tspan x="15" y="210">  ...:--=====++++++++++==-:::::      </tspan>
-  <tspan x="15" y="230">  ...:-====++++++++++++++=:::::      </tspan>
-  <tspan x="15" y="250">   ..--=======++=-::.:---==:::       </tspan>
-  <tspan x="15" y="270">   ..-:::::::-===-:::--====:::       </tspan>
-  <tspan x="15" y="290">    ..--:...::-+==----===++:===      </tspan>
-  <tspan x="15" y="310">    :.-----:--=++=++==++++++=+=.     </tspan>
-  <tspan x="15" y="330">    :---=====-==++=++++++++++=+      </tspan>
-  <tspan x="15" y="350">     ---=====--=-:====++++++++.      </tspan>
-  <tspan x="15" y="370">     :--====----==========++.:       </tspan>
-  <tspan x="15" y="390">      .---=--==---=--.=+=++:         </tspan>
-  <tspan x="15" y="410">        --==-:=+++-=-======          </tspan>
-  <tspan x="15" y="430">         --==-----==++====+-=        </tspan>
-  <tspan x="15" y="450">       ...:--======+++==-+-.:=-.     </tspan>
-  <tspan x="15" y="470">   ........-:--======---=+-..::-=    </tspan>
-  <tspan x="15" y="490">...........:--::-----==+++-..:::---. </tspan>
-  <tspan x="15" y="510">............----======+++=-...:.:-:==</tspan>
-  <tspan x="15" y="530">............:-=-======++=-:...:..::::</tspan>
+  <tspan x="15" y="30">                                                  @@ -@@@@%</tspan>
+  <tspan x="15" y="50">                                          @@@@@@:@@@@*@*@@@@@@@</tspan>
+  <tspan x="15" y="70">                                       @@@@#-@ @ @@@@ @% *@ @@%@@</tspan>
+  <tspan x="15" y="90">                                     =@@-@ +==@@@*=@=@@@@ @@@@@@@@</tspan>
+  <tspan x="15" y="110">                                    @@@%%@@@@@@@=@ @@@  @ @@% :@@@@@</tspan>
+  <tspan x="15" y="130">                                   @@:@#@@@%@  @%@ @@@@@@@% =@@=% :@@</tspan>
+  <tspan x="15" y="150">                                  @@%%@@ +      %#@@   @@@@@@*#@@@@@@@</tspan>
+  <tspan x="15" y="170">                                 *@+@@ - -:==:= .    :      %@@@@@@@ @-</tspan>
+  <tspan x="15" y="190">                                 @@@# -:-==:===----====-===::   .  @+@@</tspan>
+  <tspan x="15" y="210">                                 @@%#==:=++====+======+++===+=-:=:@%@@</tspan>
+  <tspan x="15" y="230">                                 @@:@.+-=+**+-:.:=-==--::=::-*=*+.:@%@</tspan>
+  <tspan x="15" y="250">                                 @@@- =-.          ::.     =    .:.%@@</tspan>
+  <tspan x="15" y="270">                                 @@@ -@%@@@@@@@@*      @@@@@@@#@@@- @@</tspan>
+  <tspan x="15" y="290">                                  @@.=@        -**- .:=+ =.   .  :=-@</tspan>
+  <tspan x="15" y="310">                               .  @@:*:==*@@@@ @ ##*=**=@ @@@@%=+ %@@</tspan>
+  <tspan x="15" y="330">                                @* @=*=+-*+:. .=-*==::*-=::  .::* *@ *@=</tspan>
+  <tspan x="15" y="350">                                %+= %.--- .==**==-*=-===-:**+-===-=@ %@.</tspan>
+  <tspan x="15" y="370">                                %+= @:=-===:=::=-+*+**=#:-:-=--=::=@ **</tspan>
+  <tspan x="15" y="390">                                 %% @=-:----:=::#=:= .=-+: :::--:-= .=:</tspan>
+  <tspan x="15" y="410">                                 -#.:@-:-:.::.:-#:*#**=.%+=::.:=:-@##@</tspan>
+  <tspan x="15" y="430">                                  %%=@#:=-======-=::. :=:-++-+==.=@ *+</tspan>
+  <tspan x="15" y="450">                                     @#:===+-==:...   :+=: .:-==+=@=</tspan>
+  <tspan x="15" y="470">                                     =#:-==+.=:=%*#%@%%  @%*:==-:*@</tspan>
+  <tspan x="15" y="490">                                      @=:-:-.:@@-       =%@.::-.-%.</tspan>
+  <tspan x="15" y="510">                                      %%:::-::-=@@@@@@@@@@ ::=:=#%</tspan>
+  <tspan x="15" y="530">                                       @***=.:-:  :.-*=- .:- +=%@</tspan>
+  <tspan x="15" y="550">                                       @-@*+.:-===--:::::=-:-%@@</tspan>
+  <tspan x="15" y="570">                                        *:@@* :==+=:--=+*+::@.+@</tspan>
+  <tspan x="15" y="590">                                        %:::@@.           -@ .*@</tspan>
+  <tspan x="15" y="610">                                        %:-.-+*@@@#%%#%@@@+:::*@</tspan>
+  <tspan x="15" y="630">                                        #:==::::.--  :- ::::--+@</tspan>
+  <tspan x="15" y="650">                                      @@*-:--:=== ::::::=-:-=-+@</tspan>
+  <tspan x="15" y="670">                                    @@====-=::-==::::-:-=-:-===%@@</tspan>
+  <tspan x="15" y="690">                                @@@@@@ ======:::=::::.:-=::-==:=:=@@@@</tspan>
+  <tspan x="15" y="710">                            @@@@@%#@%@@ ::==::::-=:::-=+=--====--@@%@@@@@</tspan>
+  <tspan x="15" y="730">                        @@@@@@@@@@##%%@@@    ::-:===-:-==---:   +@@%%%@@@@@@@@.</tspan>
+  <tspan x="15" y="750">                    @@@@@@%@%%%%%@@%@@@@@@@@:                 @@@%#@@@%%%@%@@@@@@@</tspan>
+  <tspan x="15" y="770">                :@@@@@%%@%@@%%%%%%@%%+*%%@%@@@@@@@@@@@#:%@@@@@@%%#@@@@@@@@%%@@@@@@@@</tspan>
+  <tspan x="15" y="790">           @@@@@@@%@%%@@%%%#@@@%%%#@@@@@%#@%%##%%#@@@@@@@%%%@@@@@%@%@@@%@%%%@@%%%%@@@@@</tspan>
+  <tspan x="15" y="810">        @@@@@@%@#%%%%#%#%@@##%%%@@@%%#%#%%%%%#@@#@@@@@%@@@@@@@**@*@%%%%%%@%%@@%@%%@@%@@@@@</tspan>
+  <tspan x="15" y="830">       %@@%#%%%@%@@#%%%@%%#@%@@@#%#%%%%%%%%%@@%%%%#*%#+*%###*#%@%%%@%%%%%%%%#%%%%%@@@@@%@@@@</tspan>
+  <tspan x="15" y="850">      @@@@%@@%*@@%%@%%@%%%@%%%%#%%@%%%%%%%@%@%##%%%#%%%%#%%@%@%@%%%%%%@@%@%%%%#%%%%%%@%@%%@@@</tspan>
+  <tspan x="15" y="870">     @@@###@%@%%%%%%%@%%*%%%%%@%%#%%%%%%%@@#*#%%*@%%%%%%%%%%#%%%%@%%%@%%@%%%@@%@%@%@%%%%@%@@@@</tspan>
+  <tspan x="15" y="890">    @@@@@%%%%%@#%%%%#%%%%%#%%*%%%%#%%%@%#%##%%%%%%%%%%@@%%@%%%%%@%#%%%%%@%@%%*%@#%%%%@@%%%%%@@@</tspan>
+  <tspan x="15" y="910">   @@%%%%@%%%%@%%%%%%%%%#%%%%%%#%#%%%%@@%@###%%%%%@%#%#%#%%%#@%#%%%@#%%%#%%@@%@@#%%%%%%%%@%%@%@@</tspan>
+  <tspan x="15" y="930"> @@@+%%%%%%%%%%%%#%#%%%%%%%#@%%%%%@@%%=#%%@%@%%@%%#%@%%%%%#%%*%@%%%%%@@%%%%%@%#%%%@@#@@@%%%%@%%@@</tspan>
+  <tspan x="15" y="950">%@@%%%@%#%%#%%%@%%@%@#%%%%@%%%%%%%%##%@@%#%#%%@%#@@###%%@%%%%%%#%#%%%@%%%%#%%%@%%#@%@%%%%%%%%%%@@.</tspan>
+  <tspan x="15" y="970">@@-*--**==+-========-=*-::::-:::-::=-=:.=:--=::=.::=:=-==--.-:--===:--====--::*+-+==-=-===-===+=%@</tspan>
 </text>
-<text x="390" y="30" fill="#c9d1d9" xml:space="preserve">
-  <tspan x="390" y="30"><tspan fill="#a5d6ff">- cristpinheiro</tspan><tspan fill="#616e7f"> ────────────────────────────────</tspan></tspan>
-  <tspan x="390" y="50"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">OS</tspan><tspan fill="#616e7f">: ....................... </tspan><tspan fill="#a5d6ff">Windows 11, Linux</tspan></tspan>
-  <tspan x="390" y="70"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Uptime</tspan><tspan fill="#616e7f">: ............................ </tspan><tspan fill="#a5d6ff">22 years</tspan></tspan>
-  <tspan x="390" y="90"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Location</tspan><tspan fill="#616e7f">: ............................ </tspan><tspan fill="#a5d6ff">Brazil</tspan></tspan>
-  <tspan x="390" y="110"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Shell</tspan><tspan fill="#616e7f">: ..................... </tspan><tspan fill="#a5d6ff">PowerShell, Bash</tspan></tspan>
-  <tspan x="390" y="130"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">IDE</tspan><tspan fill="#616e7f">: ................. </tspan><tspan fill="#a5d6ff">IntelliJ IDEA, VS Code</tspan></tspan>
-  <tspan x="390" y="150"><tspan fill="#616e7f">.</tspan></tspan>
-  <tspan x="390" y="170"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Languages</tspan><tspan fill="#616e7f">.</tspan><tspan fill="#ffa657">Programming</tspan><tspan fill="#616e7f">: . </tspan><tspan fill="#a5d6ff">Java, Python, TypeScript</tspan></tspan>
-  <tspan x="390" y="190"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Languages</tspan><tspan fill="#616e7f">.</tspan><tspan fill="#ffa657">Data</tspan><tspan fill="#616e7f">: ............ </tspan><tspan fill="#a5d6ff">SQL, Shell, YAML</tspan></tspan>
-  <tspan x="390" y="210"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Languages</tspan><tspan fill="#616e7f">.</tspan><tspan fill="#ffa657">Markup</tspan><tspan fill="#616e7f">: ................. </tspan><tspan fill="#a5d6ff">HTML, CSS</tspan></tspan>
-  <tspan x="390" y="230"><tspan fill="#616e7f">.</tspan></tspan>
-  <tspan x="390" y="250"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Stack</tspan><tspan fill="#616e7f">.</tspan><tspan fill="#ffa657">Backend</tspan><tspan fill="#616e7f">: ... </tspan><tspan fill="#a5d6ff">Spring Boot, JPA/Hibernate</tspan></tspan>
-  <tspan x="390" y="270"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Stack</tspan><tspan fill="#616e7f">.</tspan><tspan fill="#ffa657">Frontend</tspan><tspan fill="#616e7f">: ............ </tspan><tspan fill="#a5d6ff">Angular, Next.js</tspan></tspan>
-  <tspan x="390" y="290"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Stack</tspan><tspan fill="#616e7f">.</tspan><tspan fill="#ffa657">Cloud</tspan><tspan fill="#616e7f">: ..... </tspan><tspan fill="#a5d6ff">AWS (EC2, RDS, S3, Lambda)</tspan></tspan>
-  <tspan x="390" y="310"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Stack</tspan><tspan fill="#616e7f">.</tspan><tspan fill="#ffa657">DevOps</tspan><tspan fill="#616e7f">: ........ </tspan><tspan fill="#a5d6ff">Docker, GitHub Actions</tspan></tspan>
-  <tspan x="390" y="330"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Stack</tspan><tspan fill="#616e7f">.</tspan><tspan fill="#ffa657">Data</tspan><tspan fill="#616e7f">: .............. </tspan><tspan fill="#a5d6ff">PostgreSQL, Pandas</tspan></tspan>
-  <tspan x="390" y="350"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Stack</tspan><tspan fill="#616e7f">.</tspan><tspan fill="#ffa657">AI</tspan><tspan fill="#616e7f">: .......... </tspan><tspan fill="#a5d6ff">LLM APIs, ML Integration</tspan></tspan>
-  <tspan x="390" y="370"><tspan fill="#616e7f">.</tspan></tspan>
-  <tspan x="390" y="390"><tspan fill="#a5d6ff">- Contact</tspan><tspan fill="#616e7f"> ────────────────────────────────</tspan></tspan>
-  <tspan x="390" y="410"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Email</tspan><tspan fill="#616e7f">: ...... </tspan><tspan fill="#a5d6ff">cristianopinheiro2011@gmail.com</tspan></tspan>
-  <tspan x="390" y="430"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">LinkedIn</tspan><tspan fill="#616e7f">: ................. </tspan><tspan fill="#a5d6ff">/in/cristpinheiro</tspan></tspan>
-  <tspan x="390" y="450"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">GitHub</tspan><tspan fill="#616e7f">: ............ </tspan><tspan fill="#a5d6ff">github.com/cristpinheiro</tspan></tspan>
-  <tspan x="390" y="470"><tspan fill="#616e7f">.</tspan></tspan>
-  <tspan x="390" y="490"><tspan fill="#a5d6ff">- GitHub Stats</tspan><tspan fill="#616e7f"> ────────────────────────────────</tspan></tspan>
-  <tspan x="390" y="510"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Repos</tspan><tspan fill="#616e7f">: ..................... </tspan><tspan fill="#a5d6ff">53  |  Stars: 18</tspan></tspan>
-  <tspan x="390" y="530"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Followers</tspan><tspan fill="#616e7f">: .............. </tspan><tspan fill="#a5d6ff">5   |  Following: 6</tspan></tspan>
+<text x="1020" y="30" fill="#c9d1d9" xml:space="preserve">
+  <tspan x="1020" y="250"><tspan fill="#a5d6ff">- cristpinheiro</tspan><tspan fill="#616e7f"> ────────────────────────────────</tspan></tspan>
+  <tspan x="1020" y="270"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">OS</tspan><tspan fill="#616e7f">: ....................... </tspan><tspan fill="#a5d6ff">Windows 11, Linux</tspan></tspan>
+  <tspan x="1020" y="290"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Uptime</tspan><tspan fill="#616e7f">: ............................ </tspan><tspan fill="#a5d6ff">22 years</tspan></tspan>
+  <tspan x="1020" y="310"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Location</tspan><tspan fill="#616e7f">: ............................ </tspan><tspan fill="#a5d6ff">Brazil</tspan></tspan>
+  <tspan x="1020" y="330"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Shell</tspan><tspan fill="#616e7f">: ..................... </tspan><tspan fill="#a5d6ff">PowerShell, Bash</tspan></tspan>
+  <tspan x="1020" y="350"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">IDE</tspan><tspan fill="#616e7f">: ................. </tspan><tspan fill="#a5d6ff">IntelliJ IDEA, VS Code</tspan></tspan>
+  <tspan x="1020" y="370"><tspan fill="#616e7f">.</tspan></tspan>
+  <tspan x="1020" y="390"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Languages</tspan><tspan fill="#616e7f">.</tspan><tspan fill="#ffa657">Programming</tspan><tspan fill="#616e7f">: . </tspan><tspan fill="#a5d6ff">Java, Python, TypeScript</tspan></tspan>
+  <tspan x="1020" y="410"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Languages</tspan><tspan fill="#616e7f">.</tspan><tspan fill="#ffa657">Data</tspan><tspan fill="#616e7f">: ............ </tspan><tspan fill="#a5d6ff">SQL, Shell, YAML</tspan></tspan>
+  <tspan x="1020" y="430"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Languages</tspan><tspan fill="#616e7f">.</tspan><tspan fill="#ffa657">Markup</tspan><tspan fill="#616e7f">: ................. </tspan><tspan fill="#a5d6ff">HTML, CSS</tspan></tspan>
+  <tspan x="1020" y="450"><tspan fill="#616e7f">.</tspan></tspan>
+  <tspan x="1020" y="470"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Stack</tspan><tspan fill="#616e7f">.</tspan><tspan fill="#ffa657">Backend</tspan><tspan fill="#616e7f">: ... </tspan><tspan fill="#a5d6ff">Spring Boot, JPA/Hibernate</tspan></tspan>
+  <tspan x="1020" y="490"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Stack</tspan><tspan fill="#616e7f">.</tspan><tspan fill="#ffa657">Frontend</tspan><tspan fill="#616e7f">: ............ </tspan><tspan fill="#a5d6ff">Angular, Next.js</tspan></tspan>
+  <tspan x="1020" y="510"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Stack</tspan><tspan fill="#616e7f">.</tspan><tspan fill="#ffa657">Cloud</tspan><tspan fill="#616e7f">: ..... </tspan><tspan fill="#a5d6ff">AWS (EC2, RDS, S3, Lambda)</tspan></tspan>
+  <tspan x="1020" y="530"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Stack</tspan><tspan fill="#616e7f">.</tspan><tspan fill="#ffa657">DevOps</tspan><tspan fill="#616e7f">: ........ </tspan><tspan fill="#a5d6ff">Docker, GitHub Actions</tspan></tspan>
+  <tspan x="1020" y="550"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Stack</tspan><tspan fill="#616e7f">.</tspan><tspan fill="#ffa657">Data</tspan><tspan fill="#616e7f">: .............. </tspan><tspan fill="#a5d6ff">PostgreSQL, Pandas</tspan></tspan>
+  <tspan x="1020" y="570"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Stack</tspan><tspan fill="#616e7f">.</tspan><tspan fill="#ffa657">AI</tspan><tspan fill="#616e7f">: .......... </tspan><tspan fill="#a5d6ff">LLM APIs, ML Integration</tspan></tspan>
+  <tspan x="1020" y="590"><tspan fill="#616e7f">.</tspan></tspan>
+  <tspan x="1020" y="610"><tspan fill="#a5d6ff">- Contact</tspan><tspan fill="#616e7f"> ────────────────────────────────</tspan></tspan>
+  <tspan x="1020" y="630"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Email</tspan><tspan fill="#616e7f">: ...... </tspan><tspan fill="#a5d6ff">cristianopinheiro2011@gmail.com</tspan></tspan>
+  <tspan x="1020" y="650"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">LinkedIn</tspan><tspan fill="#616e7f">: ................. </tspan><tspan fill="#a5d6ff">/in/cristpinheiro</tspan></tspan>
+  <tspan x="1020" y="670"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">GitHub</tspan><tspan fill="#616e7f">: ............ </tspan><tspan fill="#a5d6ff">github.com/cristpinheiro</tspan></tspan>
+  <tspan x="1020" y="690"><tspan fill="#616e7f">.</tspan></tspan>
+  <tspan x="1020" y="710"><tspan fill="#a5d6ff">- GitHub Stats</tspan><tspan fill="#616e7f"> ────────────────────────────────</tspan></tspan>
+  <tspan x="1020" y="730"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Repos</tspan><tspan fill="#616e7f">: ..................... </tspan><tspan fill="#a5d6ff">53  |  Stars: 18</tspan></tspan>
+  <tspan x="1020" y="750"><tspan fill="#616e7f">. </tspan><tspan fill="#ffa657">Followers</tspan><tspan fill="#616e7f">: .............. </tspan><tspan fill="#a5d6ff">5   |  Following: 6</tspan></tspan>
 </text>
 </svg>
