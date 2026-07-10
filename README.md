@@ -1,5 +1,4 @@
 ```
-cristpinheiro ────────────────────────────────────────────────────
 . OS:                    Windows 11, Linux
 . Uptime:                22 years
 . Location:              Brazil
