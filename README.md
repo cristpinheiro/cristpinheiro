@@ -21,8 +21,4 @@ cristpinheiro ──────────────────────
 . Email:                 cristianopinheiro2011@gmail.com
 . LinkedIn:              /in/cristpinheiro
 . GitHub:                github.com/cristpinheiro
-.
-- GitHub Stats ───────────────────────────────────────────────────
-. Repos:                 53  |  Stars: 18
-. Followers:             5   |  Following: 6
 ```
