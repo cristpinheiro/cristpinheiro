@@ -1,9 +1,5 @@
 ```
-. OS:                    Windows 11, Linux
-. Uptime:                22 years
 . Location:              Brazil
-. Shell:                 PowerShell, Bash
-. IDE:                   IntelliJ IDEA, VS Code
 .
 . Languages.Programming: Java, Python, TypeScript
 . Languages.Data:        SQL, Shell, YAML
@@ -16,7 +12,6 @@
 . Stack.Data:            PostgreSQL, Pandas
 . Stack.AI:              LLM APIs, ML Integration
 .
-- Contact ────────────────────────────────────────────────────────
 . Email:                 cristianopinheiro2011@gmail.com
 . LinkedIn:              /in/cristpinheiro
 . GitHub:                github.com/cristpinheiro
