@@ -3,6 +3,7 @@
 . Location: ............. Brazil                            .
 .                                                           .
 . Currently: IXP Intern at SAP                             .
+.                                                           .
 . Focus: SaaS architecture & AI integration                .
 .                                                           .
 . Languages.Programming: . Java, Python, TypeScript         .
