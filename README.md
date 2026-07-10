@@ -1,29 +1,30 @@
-
 ```
----------.............`````````````````                 cristpinheiro ────────────────────────────────────
------------------...........``````````````````          . OS: ................... Windows 11, Linux
-____________-------------..........`.```````````````    . Uptime: ............... 22 years
-=^^,,,,_____________-----------............`````````    . Location: ............. Brazil
-++<<>;;;===^^,,,,__________-----------............``    . Shell: ................ PowerShell, Bash
-/**cccrrr!!++<>>;;==^^,,,,________-----------.......    . IDE: .................. IntelliJ IDEA, VS Code
-TTLLss??zzz//**ccrr!!+<<>;;=^^^,,,________---------.    
-|||((77J))vvTLLss??z//***crr!!++<>;;=^^^,,______----    - Languages.Programming: Java, Python, TypeScript
-ff}}}CCC{{iF||((7JJJJJ)TLTTs?zz//*ccr!!+<<>;==^^,,__    . Languages.Data: ....... SQL, Shell, YAML
-n[[ulltt1133IIff}I}FT*!=_<?v7)vvvTTLs??zz/*crr!+<>;;    . Languages.Markup: ..... HTML, CSS
-]ayyjxYY55Zoenn[[v=_       .rC}iF||((7JJ)vTTLs?z/*cr    
-44dd9h6PkqwwSE]S)    >?!=.   >)t13Iff}C{iFF|(7JJ)vTL    - Stack.Backend: ........ Spring Boot, JPA/Hibernate
-mmmHHHXKKAAUbGGd< FkHM%ND]a}- =yjxY5oe[ult3If}C{{F||    . Stack.Frontend: ....... Angular, Next.js
-gggBBBB###DDDRDX__SXmg@&H4p9i ?bdd96PqwE2ayx5Zon[ut1    . Stack.Cloud: .......... AWS (EC2, RDS, S3, Lambda)
-%QQQQQWWWWWNNNM&Z`5jI]8RE[EGl+SB88mHXAUbGOV49hPqwE]a    . Stack.DevOps: ......... Docker, GitHub Actions
-@@@@@@@@@@@@@@&&@hhR#mGKH%WWyGWMNMM00ggBB#DR8mHXAbOV    . Stack.Data: ........... PostgreSQL, Pandas
-@@@@@@@@@@@@@@@@&&Ug@D8gR0&Q2mQ@&&&&%%%QQQWWNM00gB#D    . Stack.AI: ............. LLM APIs, ML Integration
-%%%%%%%%%%%%&&&&%%0O0HbBb8WbwQ&&&&&&&&&&&&&&&&%%QQWW    
-@@@@@@@@@@@@@@@@@@@0kXBgBHq9D@@@@@@@@@@@@@@@@@@@@@@@    - Contact ───────────────────────────────────────
-Pkw9khpVd4p4UUUHm8mKX4OKAU0WO#D88RHKXKAUAUGGOpV49hPq    . Email: ... cristianopinheiro2011@gmail.com
-7L/)TTzT?szTvJ)J?!_ y@@@@@@N2+^,,=,,,_--,_-----...``    . LinkedIn: ............. /in/cristpinheiro
-2y[!<cxE]Ea]n}?;.   _{eYZlFr      .=<<>^^,--.`          . GitHub: ............... /cristpinheiro
-]aZ` =d62k2z`                        `_*c!<>;=,-....    
-qhy, zppGVs          ``````            _c/<<^_,-...`    - GitHub Stats ──────────────────────────────────
-[x5< ;f{fL `                            `vv!=--_-```    . Repos: ..... 24  | Stars: ................... 13
-                                                        . Followers: ..  5  | Following: ............... 6
+^^^^^^,,,,,________-----````````....................    cristpinheiro ──────────────────────────────────────
+;;;;=====^^^^^^,,,,,_______------`````..............    . OS: ................... Windows 11, Linux
++++<<>>>;;;;;=======^^^,,,,,______-------`````......    . Uptime: ............... 22 years
+ccrrrr!!!+++<<<<>>>;;;=====^^^^^,,,,,,_____----`````    . Location: ............. Brazil
+zzz///***ccccrrr!!!++<<<>>>;;;;====^^^^^^,,,,_____--    . Shell: ................ PowerShell, Bash
+TTLLLLss???zzzz//***ccrr!!!!+++<<>>>;;;=====^^^^,,,,    . IDE: .................. IntelliJ IDEA, VS Code
+77JJJJJ))vvvTTTLLss??zzzz/****ccrr!!!++<<<<>;;;;====    
+CC{{iiFF|||((777JJ)JJJ)v?TvTs???zz//**ccrrr!!+++<<>>    - Languages.Programming: Java, Python, TypeScript
+[[ullltt133IIf}}C{}(Tr;^`,!z7JvvvTTTLss??z//**ccrr!!    . Languages.Data: ....... SQL, Shell, YAML
+yyyjjxxYY5ZZooen[nJ.   `    r|{iF|((7JJ))vTTLs??z//*    . Languages.Markup: ..... HTML, CSS
+hh666PkkqqwSSE222j,=3ydV6[Ic >nult13IfCC{F|(77J)vvTL    
+XKKKAAUUbGOOppV4V6`Tk6KMU]S5 rSayjxY5Zon[ult13I}C{F|    - Stack.Backend: ........ Spring Boot, JPA/Hibernate
+00000gggBBB##DDR8BYJ]e]4SaPS(Spd9h6kqwSE2]ajx5Zoenut    . Stack.Frontend: ....... Angular, Next.js
+%%%%%%%%%%%%%QQQQQ&pdBpVpR0kwgRR8mXKAbGOV49hPqwE]ayx    . Stack.Cloud: .......... AWS (EC2, RDS, S3, Lambda)
+@@&@@&&&&&&&&&&&&%%NdOOXAOUyK%QQQQWNM0BDRmXAbOp49hPq    . Stack.DevOps: ......... Docker, GitHub Actions
+AR@@@@@@@@@@@@@@@@@@@wkpVk]k@@@@@@@&%WMgD8HKUGO49hkq    . Stack.Data: ........... PostgreSQL, Pandas
+<<T|C13t[[nuuun5Y]aY[qOK8mWGxone[tt331I}CC{F|(7J))vT    . Stack.AI: ............. LLM APIs, ML Integration
+_- }tI}vr/{}}CIFL+-  c]hVhx7.   .^>>=^^_-```.           
+^-cY5Z5) >]xyZ/_   ..        ..  ._^*L/*cr+>;;=^,___    - Contact ───────────────────────────────────────────
+. ![[ox7 cayjc   ........`..        .!T/r<<===^,,_--    . Email: .... cristianopinheiro2011@gmail.com
++/rF}Il7 `+*r               ..        /L!!!+;===^,,,    . LinkedIn: ............. /in/cristpinheiro
+{rr)7?s! -/L,.                        -c!<>;^,,,-___    . GitHub: ............... /cristpinheiro
+]}+/z*+- ,z*                          ._,,,,__-.....    
+Zhs-+zz, -`?|?*+_                       ```-```..       - GitHub Stats ──────────────────────────────────────
+4K)`,-`. _rZwE1,                  ,-_;*s>...            . Repos: ..... 24  | Stars: ................... 13
+wz `---___3P]j/ .                 c24p9{ . .            . Followers: ..  5  | Following: ............... 6
+    . ...>ZwSu<>.                  7hVO5^.              
+ .       +YS]7                   __+xkpP!               . Currently: Building scalable APIs + AI/ML
 ```
